@@ -19,7 +19,7 @@
 		"wrangler": "^4.6.0"
 	},
 	"dependencies": {
-		"@modelcontextprotocol/sdk": "^1.7.0",
+		"@modelcontextprotocol/sdk": "^1.26.0",
 		"agents": "^0.0.60",
 		"hono": "^4.7.4",
 		"uuid": "^11.1.0",
